@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-100&show_icons=true&locale=en&layout=compact" alt="mohit-100" /></p>
 
-[![An image of @mohit100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohit100)](https://holopin.io/@mohit100),[![An image of @mohit100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohit100)](https://holopin.io/@mohit100)
+[![An image of @mohit100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohit100)](https://holopin.io/@mohit100)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-100&show_icons=true&locale=en" alt="mohit-100" /></p>
